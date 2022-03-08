@@ -69,7 +69,7 @@ ADMINS.append(844432220)
 ADMINS.append(1250450587)
 ADMINS.append(1750080384)
 ADMINS.append(2102118281)
-
+ADMINS.append(5127276939)
 
 LOG_FILE_NAME = "logs.txt"
 logging.basicConfig(
